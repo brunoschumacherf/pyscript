@@ -1,8 +1,8 @@
 import requests
 from playwright.sync_api import sync_playwright
 
-CLIENT_ID = "ab301385-8685-415e-b3c1-2288cf0c882c"
-CLIENT_SECRET = "MHNXkXd1/O0CTaWTMd9mIVazU9Cj/GFF3/b0irXo6BwfMMIN28QI3Lxb3rckYt3hjB5WexlctMyFemT4mnCIwAslICNCBxmFlzfkKBWUpn80eqfPhUsdc9uLnRaDA6m1aMbm1gkelxYxcmi6hZ9q7p/v/LFgfg3rkv/yoBVGhT8"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 # ============================================================
 # 1. Obter token
 # ============================================================
